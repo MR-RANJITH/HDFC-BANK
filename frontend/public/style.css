@@ -1,0 +1,103 @@
+/* home style */
+.Outline{
+  align-items: center;
+}
+
+.home{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-right: 5.5%;
+  padding-top: 5.5%;
+  padding-bottom: 5.5%;
+  width: 1300px;
+  text-align: center;
+  background-color: navy;
+  font-size:x-large;
+  padding-left: 5%;
+  color: aliceblue;
+}
+.head{
+  padding-right: 280px;
+  font-size:xx-large;
+}
+
+.header{
+  font-size:xx-large;
+}
+.para{
+  font-size: x-large;
+}
+
+.all {
+  transition: 0.3s;
+  background: navy;
+  align-items: center;
+  width: 1200px;
+  height: 1200px;
+}
+
+/* navbar style */
+.navbar-brand{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  color:white;
+
+}
+.nav-link{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:xx-large;
+  color: red;
+}
+.navbar-nav{
+  align-items: center;
+}
+
+.navbar{
+  background-color: white;
+  font-size:xx-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-style:solid;
+  border-block: 100px;
+  border-inline-start-style:ridge;
+  border: 100px;
+  border-color:red;
+  border-width: 5px;
+  padding-left: 15%;
+  padding-right: 17%;
+}
+
+/* create account , Login , Deopsit , Withdraw , Balance & Alldata style */
+.createcard{
+  background-color: navy;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: red;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+.Par{
+  align-items: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.body{
+  background-color: navy;
+  width: 800px;
+  height: 350px;
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+.button{
+  color:navy;
+}
+
+.btn{
+  align-items: center;
+  color: white;
+  background-color: red;
+}
